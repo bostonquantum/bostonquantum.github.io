@@ -1,0 +1,29 @@
+{
+  "name": "bostonquantum",
+  "version": "0.1.0",
+  "description": "Boston Quantum Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bostonquantum/bostonquantum.github.io.git"
+  },
+  "keywords": [
+    "bostonquantum",
+    "quantum-computing",
+    "quantum-advantage"
+  ],
+  "author": "Boston Quantum Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bostonquantum/bostonquantum.github.io/issues"
+  },
+  "homepage": "https://github.com/bostonquantum/bostonquantum.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootswatch": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
